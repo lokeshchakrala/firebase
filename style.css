@@ -1,0 +1,44 @@
+img{
+    width: 60px;
+    height: 50px;
+}
+#form{
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+    background-color: aliceblue;
+    margin: 30px;
+    border-radius: 15px;
+}
+input{
+    margin: 20px;
+    border-radius: 8px;
+}
+label{
+    margin: 20px;
+}
+body{
+    background-color: blueviolet;
+}
+h1{
+    margin: 30px;
+    font-family: monospace;
+}
+button{
+    border-radius: 3px;
+}
+#line{
+    font-size: 11px;
+}
+#pass1{
+    margin-bottom: 0px;
+}
+a{
+    margin-left: 20px;
+}
+body{
+    background-image: url(twitter.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
